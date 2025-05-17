@@ -10,7 +10,7 @@ const inter = Inter({ subsets: ["latin"] });
 export const metadata: Metadata = {
   title: "test-auth",
   description:
-    "Это учебный проект, созданный для обучения полного цикла авторизации пользователей",
+    "Это учебный проект, созданный для изучения полного цикла авторизации пользователей",
 };
 
 export default function RootLayout({
